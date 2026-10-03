@@ -3,6 +3,7 @@ name: Release
 # vX.Y.Z       -> production release (tag on main)
 # vX.Y.Z-rc.N  -> pre-release (tag on stage)
 on:
+  workflow_dispatch:
   push:
     tags: ['v*.*.*']
 
