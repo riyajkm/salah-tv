@@ -5,6 +5,9 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: 
 
 ## [Unreleased]
 
+### Added
+- README screenshots of all six display designs and `tool/screenshots_test.dart` to regenerate them.
+
 ## [1.0.0] - 2026-10-03
 
 ### Added

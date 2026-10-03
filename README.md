@@ -13,6 +13,25 @@ Landscape only, D-pad (remote) controllable, runs 24/7.
 * After iqamah: full-screen *"Please silence your phones"* for N minutes
 * Optional chime at azan, optional rotation through all prayers
 
+## Screenshots
+
+Default look (**Classic**), 1920x1080:
+
+![Classic design](docs/screenshots/design-classic.png)
+
+All six display designs (choose one in *Settings → General → Display design*):
+
+| Classic | All prayers | List |
+|---|---|---|
+| ![Classic](docs/screenshots/design-classic.png) | ![All prayers](docs/screenshots/design-all.png) | ![List](docs/screenshots/design-list.png) |
+
+| Focus | Ring | Emerald |
+|---|---|---|
+| ![Focus](docs/screenshots/design-focus.png) | ![Ring](docs/screenshots/design-ring.png) | ![Emerald](docs/screenshots/design-emerald.png) |
+
+The screenshots are generated from the real widgets with `flutter test tool/screenshots_test.dart`
+(output: `docs/screenshots/`); re-run it after changing a design.
+
 ## Install
 
 Download the latest APK from the [Releases](../../releases) page and sideload it on your Android TV.
