@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#0A0A0F"/>
+  <defs>
+    <mask id="cut"><rect width="1024" height="1024" fill="#fff"/><circle cx="610" cy="455" r="290" fill="#000"/></mask>
+  </defs>
+  <!-- crescent -->
+  <circle cx="512" cy="512" r="330" fill="#D4AF37" mask="url(#cut)"/>
+  <!-- minimal clock face in the crescent's mouth -->
+  <g fill="none" stroke="#D4AF37" stroke-width="24" stroke-linecap="round">
+    <circle cx="625" cy="500" r="125"/>
+    <path d="M625 500V422M625 500L681 532"/>
+  </g>
+</svg>
