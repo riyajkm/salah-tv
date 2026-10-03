@@ -14,5 +14,5 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: 
 - Timetable import, merge and coverage warnings; calculated fallback via `adhan` for missing dates.
 - D-pad controlled settings with optional PIN.
 
-[Unreleased]: https://github.com/OWNER/REPO/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/OWNER/REPO/releases/tag/v1.0.0
+[Unreleased]: https://github.com/riyajkm/salah-tv/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/riyajkm/salah-tv/releases/tag/v1.0.0
