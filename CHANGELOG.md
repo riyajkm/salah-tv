@@ -5,6 +5,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: 
 
 ## [Unreleased]
 
+### Changed
+- Release builds are signed with an upload key (`android/key.properties` locally, `ANDROID_*` secrets in CI), falling back to the debug key when none is configured.
+- The release workflow now also builds and attaches a Google Play app bundle (`.aab`).
+
 ### Added
 - README screenshots of all six display designs and `tool/screenshots_test.dart` to regenerate them.
 
