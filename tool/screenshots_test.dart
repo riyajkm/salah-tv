@@ -1,3 +1,4 @@
+// ignore_for_file: invalid_use_of_visible_for_testing_member
 // Regenerates the README screenshots in docs/screenshots/.
 //
 //   flutter test tool/screenshots_test.dart
