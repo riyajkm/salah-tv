@@ -1,5 +1,7 @@
 # SalahLK – Masjid Prayer Time Display (Android TV)
 
+![SalahLK - Prayer Times on Your Masjid TV](docs/banner.png)
+
 A full-screen, offline prayer-time clock for mosque TVs, written in Flutter.
 Landscape only, D-pad (remote) controllable, runs 24/7.
 
